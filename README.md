@@ -4,7 +4,6 @@ Fly the Su-27 over Kashmir. A free combat flight simulator by Yembera.
 
 **Website:** [flightout.app](https://flightout.app)
 
-**Play in your browser:** [run.flightout.app](https://run.flightout.app) (FlightOut Lite, no install)
 
 ## Download
 
