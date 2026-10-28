@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "FlightOut London",
+      "region": "Europe  ·  London",
+      "address": "play-london.flightout.app"
+    },
+    {
+      "name": "FlightOut India",
+      "region": "Asia  ·  Mumbai",
+      "address": "play-india.flightout.app"
+    }
+  ]
+}
