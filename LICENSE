@@ -1,49 +1,54 @@
-FlightOut Source-Available Licence
+FLIGHTOUT END USER LICENCE AGREEMENT
 Version 1.0
 
 Copyright (C) 2026 Yembera (Aaqid Masoodi). All rights reserved.
 
-FlightOut ("the Software") is published so that people can read its source code, follow its development and
-contribute to it. It is not open source. Except for what this licence expressly allows, no rights are granted.
+FlightOut ("the Software") is proprietary software. Its source code, tools and project files are not published and
+are not licensed to anyone. This agreement covers the official builds of FlightOut published by Yembera. By
+installing or using the Software you agree to these terms.
 
-1. WHAT YOU MAY DO
-   a. View and read the source code, documentation and assets in the official repository
-      (https://github.com/aaqidmasoodi/flightout).
-   b. Fork the repository on GitHub, and download, build and run the Software on your own computer, only to prepare
-      and test a contribution (an issue, a bug report or a pull request) to the official repository.
-   c. Download, install and play the official releases of FlightOut published by Yembera, including hosting a
-      server with an official release, under the end user licence that comes with them.
+1. LICENCE
+   Yembera grants you a personal, non-exclusive, non-transferable, revocable licence to install and use the official
+   builds of the Software on computers you own or control, for personal, non-commercial use, and to host a
+   multiplayer server with an official build.
 
-2. WHAT YOU MAY NOT DO
-   Without prior written permission from Yembera, you may not:
-   a. copy, reproduce or reuse the Software, or any part of it (code, shaders, tools, data, models, textures,
-      sounds, designs or documentation), in any other project, product or service, whether commercial or not;
-   b. distribute, publish, sublicense, sell or make available the Software or any part of it, modified or not,
-      including builds made from this source, other than an unmodified fork on GitHub kept for contributing;
-   c. create or distribute derivative works, ports, mods or competing products based on the Software;
-   d. use the Software or any part of it to train, fine-tune or evaluate machine-learning models, or include it in
-      datasets;
-   e. remove or alter copyright, licence or attribution notices;
-   f. use the FlightOut or Yembera names, logos or branding.
+2. EARLY ACCESS SOFTWARE
+   The Software is in development. It may contain bugs, features may change or be removed, and your settings may be
+   reset between versions.
 
-3. CONTRIBUTIONS
-   By submitting a contribution (for example a pull request, patch, issue text or asset) you confirm that you have
-   the right to submit it, and you grant Yembera a perpetual, worldwide, irrevocable, royalty-free, non-exclusive
-   licence to use, modify, distribute and relicense it as part of FlightOut or otherwise. Your contribution then
-   becomes part of the Software under this licence.
+3. RESTRICTIONS
+   Except where the law expressly allows it despite this restriction, you may not, and may not help anyone else to:
+   a. decompile, disassemble, decrypt or reverse engineer the Software, or try to extract or reconstruct its source
+      code, scripts, shaders, data or assets;
+   b. copy, extract, modify, translate or reuse any part of the Software (code, shaders, tools, data, models,
+      textures, sounds, music, designs or documentation), or make derivative works, ports or modified builds of it;
+   c. sell, rent, lend, sublicense, publish or redistribute the Software or any part of it, other than sharing a link
+      to the official download;
+   d. cheat in, disrupt, overload or get unauthorised access to the official servers or other players' games, or use
+      any software that does;
+   e. use the Software or any part of it to train or improve machine-learning or AI models;
+   f. use the FlightOut or Yembera names, logos or branding without written permission.
 
-4. THIRD-PARTY COMPONENTS
-   Parts of the Software come from third parties and remain under their own licences, which this licence does not
-   change: the Godot Engine (MIT), the Rajdhani typeface (SIL Open Font Licence 1.1), sound effects (see
-   assets/audio/CREDITS.md), Copernicus DEM GLO-30 elevation data (C) DLR e.V. and Airbus Defence and Space GmbH,
-   provided under COPERNICUS by the European Union and ESA, ESA WorldCover 2021 (CC BY 4.0), and Natural Earth
-   boundaries (public domain). See installer/THIRD-PARTY-NOTICES.txt.
+4. ONLINE SERVICES
+   The official servers, update service and website are provided as they are and may change, be limited or end at
+   any time. Yembera may refuse or end access to them for anyone who breaks these terms.
 
-5. TERMINATION
-   Any use outside this licence ends your rights under it automatically.
+5. OWNERSHIP
+   The Software is licensed, not sold. Yembera owns the Software and all rights in it, except for the third-party
+   components below. Anything not expressly granted here is reserved.
 
-6. NO WARRANTY
+6. THIRD-PARTY COMPONENTS
+   The Software includes third-party components under their own licences (for example the Godot Engine under the
+   MIT licence, the Rajdhani typeface under the SIL Open Font Licence, map data from Copernicus, ESA WorldCover,
+   Natural Earth and OurAirports, and public-domain CC0 sound effects). See THIRD-PARTY-NOTICES.txt and
+   https://flightout.app/attribution. Nothing here limits your rights under those licences.
+
+7. NO WARRANTY
    The Software is provided "as is", without warranty of any kind. To the extent permitted by law, Yembera is not
-   liable for any damages arising from it.
+   liable for any damages arising from its use.
 
-For permission to use FlightOut in any other way, contact Yembera through https://flightout.app.
+8. TERMINATION
+   This licence ends automatically if you break these terms. You must then stop using and uninstall the Software.
+
+Yembera - Technology from Kashmir, built for the world.
+https://flightout.app
