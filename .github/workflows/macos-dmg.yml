@@ -37,7 +37,9 @@ jobs:
         run: |
           set -euo pipefail
           xattr -cr app/FlightOut.app
-          codesign --force --deep --sign - app/FlightOut.app
+          # keep the app's entitlements (the microphone) and hardened runtime: a plain re-sign drops them
+          codesign --force --deep --sign - --preserve-metadata=entitlements,requirements,flags,runtime app/FlightOut.app
+          codesign -d --entitlements - app/FlightOut.app
           codesign --verify --deep --strict --verbose=2 app/FlightOut.app
           lipo -archs app/FlightOut.app/Contents/MacOS/FlightOut
 
